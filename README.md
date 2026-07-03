@@ -6,10 +6,10 @@ Plataforma de gestión de servicios urbanos.
 
 | Rol | Integrante |
 |-----|------------|
-| Frontend | |
-| Backend | |
-| UX/UI | |
-| Tester | |
+| Frontend | Erika Helfenstern |
+| Backend | Fernando Galassi |
+| QA | Mayra Chazarreta |
+| UX/UI | Camille Alcavil |
 
 ## Stack Tecnológico
 
